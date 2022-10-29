@@ -3,8 +3,9 @@ package com.chirikualii.materiapi.data.dummy
 import com.chirikualii.materiapi.data.model.Movie
 
 object DataDummy {
+
     val listMovie = listOf(
-        Movie(
+        Movieeee(
             "Avengers: Endgame",
             "Action, Adventure, Drama",
             "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
